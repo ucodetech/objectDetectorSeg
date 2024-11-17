@@ -1,0 +1,21 @@
+train: ../model/images/training
+val: ../model/labels/validation
+#number of classes
+nc: 5
+#class names
+names: ['hard_disk_case','mifi','phone_charger','smart_watch','wireless_mouse']
+
+
+train: /content/datasets/object-seg-custom-1/train
+val:  /content/datasets/object-seg-custom-1/valid
+test: /content/datasets/object-seg-custom-1/test
+
+nc: 5
+names: ['hard_disk_case', 'mifi', 'phone_charger', 'smart_watch', 'wireless_mouse']
+
+roboflow:
+  workspace: gtech-k8bpo
+  project: object-seg-custom
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/gtech-k8bpo/object-seg-custom/dataset/1

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>smart_watch_9.jpg</filename>
+	<path>C:\Users\ejekw\Documents\opt\python\objectDetectorSeg\src\images\smart_watch_9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smart_watch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>439</xmin>
+			<ymin>236</ymin>
+			<xmax>604</xmax>
+			<ymax>324</ymax>
+		</bndbox>
+	</object>
+</annotation>

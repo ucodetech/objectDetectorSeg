@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>mifi_29.jpg</filename>
+	<path>C:\Users\ejekw\Documents\opt\python\objectDetectorSeg\src\images\mifi_29.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mifi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>396</xmin>
+			<ymin>256</ymin>
+			<xmax>693</xmax>
+			<ymax>385</ymax>
+		</bndbox>
+	</object>
+</annotation>
