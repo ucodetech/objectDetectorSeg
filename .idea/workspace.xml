@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e915c2ed-4f33-40f6-9c05-7a6fface8e15" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/objectDetectorSeg.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/convertXmlToTxt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/hard_disk_case_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/hard_disk_case_10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/hard_disk_case_11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/hard_disk_case_12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/hard_disk_case_13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/hard_disk_case_14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/hard_disk_case_15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/hard_disk_case_16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/hard_disk_case_17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/hard_disk_case_18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/hard_disk_case_19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/hard_disk_case_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/hard_disk_case_20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/hard_disk_case_21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/hard_disk_case_22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/hard_disk_case_23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/hard_disk_case_24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/hard_disk_case_25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/hard_disk_case_26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/hard_disk_case_27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/hard_disk_case_28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/hard_disk_case_29.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/hard_disk_case_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/hard_disk_case_30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/hard_disk_case_31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/hard_disk_case_32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/hard_disk_case_33.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/hard_disk_case_34.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/hard_disk_case_35.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/hard_disk_case_36.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/hard_disk_case_37.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/hard_disk_case_38.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/hard_disk_case_39.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/hard_disk_case_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/hard_disk_case_40.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/hard_disk_case_41.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/hard_disk_case_42.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/hard_disk_case_43.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/hard_disk_case_44.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/hard_disk_case_45.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/hard_disk_case_46.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/hard_disk_case_47.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/hard_disk_case_48.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/hard_disk_case_49.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/hard_disk_case_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/hard_disk_case_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/hard_disk_case_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/hard_disk_case_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/hard_disk_case_9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/mifi_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/mifi_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/mifi_10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/mifi_11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/mifi_12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/mifi_13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/mifi_14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/mifi_15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/mifi_16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/mifi_17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/mifi_18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/mifi_19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/mifi_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/mifi_20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/mifi_21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/mifi_22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/mifi_23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/mifi_24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/mifi_25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/mifi_26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/mifi_27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/mifi_28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/mifi_29.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/mifi_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/mifi_30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/mifi_31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/mifi_32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/mifi_33.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/mifi_34.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/mifi_35.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/mifi_36.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/mifi_37.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/mifi_38.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/mifi_39.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/mifi_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/mifi_40.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/mifi_41.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/mifi_42.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/mifi_43.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/mifi_44.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/mifi_45.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/mifi_46.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/mifi_47.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/mifi_48.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/mifi_49.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/mifi_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/mifi_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/mifi_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/mifi_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/mifi_9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/phone_charger_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/phone_charger_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/phone_charger_10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/phone_charger_11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/phone_charger_12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/phone_charger_13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/phone_charger_14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/phone_charger_15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/phone_charger_16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/phone_charger_17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/phone_charger_18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/phone_charger_19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/phone_charger_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/phone_charger_20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/phone_charger_21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/phone_charger_22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/phone_charger_23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/phone_charger_24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/phone_charger_25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/phone_charger_26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/phone_charger_27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/phone_charger_28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/phone_charger_29.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/phone_charger_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/phone_charger_30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/phone_charger_31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/phone_charger_32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/phone_charger_33.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/phone_charger_34.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/phone_charger_35.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/phone_charger_36.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/phone_charger_37.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/phone_charger_38.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/phone_charger_39.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/phone_charger_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/phone_charger_40.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/phone_charger_41.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/phone_charger_42.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/phone_charger_43.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/phone_charger_44.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/phone_charger_45.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/phone_charger_46.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/phone_charger_47.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/phone_charger_48.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/phone_charger_49.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/phone_charger_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/phone_charger_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/phone_charger_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/phone_charger_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/phone_charger_9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/smart_watch_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/smart_watch_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/smart_watch_10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/smart_watch_11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/smart_watch_12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/smart_watch_13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/smart_watch_14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/smart_watch_15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/smart_watch_16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/smart_watch_17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/smart_watch_18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/smart_watch_19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/smart_watch_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/smart_watch_20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/smart_watch_21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/smart_watch_22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/smart_watch_23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/smart_watch_24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/smart_watch_25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/smart_watch_26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/smart_watch_27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/smart_watch_28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/smart_watch_29.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/smart_watch_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/smart_watch_30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/smart_watch_31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/smart_watch_32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/smart_watch_33.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/smart_watch_34.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/smart_watch_35.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/smart_watch_36.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/smart_watch_37.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/smart_watch_38.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/smart_watch_39.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/smart_watch_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/smart_watch_40.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/smart_watch_41.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/smart_watch_42.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/smart_watch_43.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/smart_watch_44.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/smart_watch_45.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/smart_watch_46.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/smart_watch_47.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/smart_watch_48.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/smart_watch_49.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/smart_watch_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/smart_watch_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/smart_watch_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/smart_watch_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/smart_watch_9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/wireless_mouse_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/wireless_mouse_10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/wireless_mouse_11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/wireless_mouse_12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/wireless_mouse_13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/wireless_mouse_14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/wireless_mouse_15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/wireless_mouse_16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/wireless_mouse_17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/wireless_mouse_18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/wireless_mouse_19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/wireless_mouse_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/wireless_mouse_20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/wireless_mouse_21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/wireless_mouse_22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/wireless_mouse_23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/wireless_mouse_24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/wireless_mouse_25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/wireless_mouse_26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/wireless_mouse_27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/wireless_mouse_28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/wireless_mouse_29.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/wireless_mouse_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/wireless_mouse_30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/wireless_mouse_31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/wireless_mouse_32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/wireless_mouse_33.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/wireless_mouse_34.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/wireless_mouse_35.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/wireless_mouse_36.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/wireless_mouse_37.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/wireless_mouse_38.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/wireless_mouse_39.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/wireless_mouse_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/wireless_mouse_40.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/wireless_mouse_41.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/wireless_mouse_42.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/wireless_mouse_43.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/wireless_mouse_44.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/wireless_mouse_45.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/wireless_mouse_46.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/wireless_mouse_47.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/wireless_mouse_48.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/wireless_mouse_49.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/wireless_mouse_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/wireless_mouse_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/wireless_mouse_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/wireless_mouse_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/training/wireless_mouse_9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/hard_disk_case_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/hard_disk_case_10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/hard_disk_case_11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/hard_disk_case_12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/hard_disk_case_13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/hard_disk_case_14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/hard_disk_case_15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/hard_disk_case_16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/hard_disk_case_17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/hard_disk_case_18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/hard_disk_case_19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/hard_disk_case_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/hard_disk_case_20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/hard_disk_case_21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/hard_disk_case_22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/hard_disk_case_23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/hard_disk_case_24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/hard_disk_case_25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/hard_disk_case_26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/hard_disk_case_27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/hard_disk_case_28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/hard_disk_case_29.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/hard_disk_case_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/hard_disk_case_30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/hard_disk_case_31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/hard_disk_case_32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/hard_disk_case_33.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/hard_disk_case_34.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/hard_disk_case_35.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/hard_disk_case_36.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/hard_disk_case_37.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/hard_disk_case_38.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/hard_disk_case_39.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/hard_disk_case_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/hard_disk_case_40.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/hard_disk_case_41.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/hard_disk_case_42.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/hard_disk_case_43.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/hard_disk_case_44.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/hard_disk_case_45.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/hard_disk_case_46.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/hard_disk_case_47.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/hard_disk_case_48.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/hard_disk_case_49.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/hard_disk_case_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/hard_disk_case_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/hard_disk_case_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/hard_disk_case_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/hard_disk_case_9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/mifi_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/mifi_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/mifi_10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/mifi_11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/mifi_12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/mifi_13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/mifi_14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/mifi_15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/mifi_16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/mifi_17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/mifi_18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/mifi_19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/mifi_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/mifi_20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/mifi_21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/mifi_22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/mifi_23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/mifi_24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/mifi_25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/mifi_26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/mifi_27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/mifi_28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/mifi_29.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/mifi_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/mifi_30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/mifi_31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/mifi_32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/mifi_33.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/mifi_34.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/mifi_35.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/mifi_36.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/mifi_37.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/mifi_38.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/mifi_39.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/mifi_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/mifi_40.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/mifi_41.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/mifi_42.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/mifi_43.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/mifi_44.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/mifi_45.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/mifi_46.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/mifi_47.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/mifi_48.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/mifi_49.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/mifi_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/mifi_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/mifi_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/mifi_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/mifi_9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/phone_charger_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/phone_charger_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/phone_charger_10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/phone_charger_11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/phone_charger_12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/phone_charger_13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/phone_charger_14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/phone_charger_15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/phone_charger_16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/phone_charger_17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/phone_charger_18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/phone_charger_19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/phone_charger_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/phone_charger_20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/phone_charger_21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/phone_charger_22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/phone_charger_23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/phone_charger_24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/phone_charger_25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/phone_charger_26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/phone_charger_27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/phone_charger_28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/phone_charger_29.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/phone_charger_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/phone_charger_30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/phone_charger_31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/phone_charger_32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/phone_charger_33.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/phone_charger_34.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/phone_charger_35.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/phone_charger_36.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/phone_charger_37.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/phone_charger_38.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/phone_charger_39.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/phone_charger_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/phone_charger_40.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/phone_charger_41.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/phone_charger_42.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/phone_charger_43.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/phone_charger_44.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/phone_charger_45.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/phone_charger_46.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/phone_charger_47.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/phone_charger_48.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/phone_charger_49.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/phone_charger_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/phone_charger_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/phone_charger_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/phone_charger_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/phone_charger_9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/smart_watch_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/smart_watch_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/smart_watch_10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/smart_watch_11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/smart_watch_12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/smart_watch_13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/smart_watch_14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/smart_watch_15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/smart_watch_16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/smart_watch_17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/smart_watch_18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/smart_watch_19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/smart_watch_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/smart_watch_20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/smart_watch_21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/smart_watch_22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/smart_watch_23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/smart_watch_24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/smart_watch_25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/smart_watch_26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/smart_watch_27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/smart_watch_28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/smart_watch_29.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/smart_watch_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/smart_watch_30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/smart_watch_31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/smart_watch_32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/smart_watch_33.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/smart_watch_34.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/smart_watch_35.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/smart_watch_36.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/smart_watch_37.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/smart_watch_38.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/smart_watch_39.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/smart_watch_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/smart_watch_40.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/smart_watch_41.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/smart_watch_42.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/smart_watch_43.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/smart_watch_44.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/smart_watch_45.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/smart_watch_46.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/smart_watch_47.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/smart_watch_48.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/smart_watch_49.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/smart_watch_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/smart_watch_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/smart_watch_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/smart_watch_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/smart_watch_9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/wireless_mouse_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/wireless_mouse_10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/wireless_mouse_11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/wireless_mouse_12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/wireless_mouse_13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/wireless_mouse_14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/wireless_mouse_15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/wireless_mouse_16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/wireless_mouse_17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/wireless_mouse_18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/wireless_mouse_19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/wireless_mouse_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/wireless_mouse_20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/wireless_mouse_21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/wireless_mouse_22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/wireless_mouse_23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/wireless_mouse_24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/wireless_mouse_25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/wireless_mouse_26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/wireless_mouse_27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/wireless_mouse_28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/wireless_mouse_29.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/wireless_mouse_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/wireless_mouse_30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/wireless_mouse_31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/wireless_mouse_32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/wireless_mouse_33.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/wireless_mouse_34.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/wireless_mouse_35.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/wireless_mouse_36.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/wireless_mouse_37.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/wireless_mouse_38.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/wireless_mouse_39.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/wireless_mouse_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/wireless_mouse_40.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/wireless_mouse_41.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/wireless_mouse_42.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/wireless_mouse_43.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/wireless_mouse_44.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/wireless_mouse_45.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/wireless_mouse_46.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/wireless_mouse_47.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/wireless_mouse_48.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/wireless_mouse_49.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/wireless_mouse_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/wireless_mouse_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/wireless_mouse_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/wireless_mouse_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/labels/validation/wireless_mouse_9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yolov11/coco1.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2nq2esZEQx2eOChQK4kELkDIxN0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.convertXmlToTxt.executor&quot;: &quot;Run&quot;,
+    &quot;Python.img.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.yolo11objectdetection-track.executor&quot;: &quot;Run&quot;,
+    &quot;Python.yolo11seg-track.executor&quot;: &quot;Run&quot;,
+    &quot;Python.yolov11track-speed.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ejekw/Documents/opt/python/objectDetectorSeg/src/model/labels/validation&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ejekw\Documents\opt\python\objectDetectorSeg\src\model\labels\validation" />
+      <recent name="C:\Users\ejekw\Documents\opt\python\objectDetectorSeg\src\model\labels\training" />
+      <recent name="C:\Users\ejekw\Documents\opt\python\objectDetectorSeg\src\model\images\validation" />
+      <recent name="C:\Users\ejekw\Documents\opt\python\objectDetectorSeg\src\model\images\training" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ejekw\Documents\opt\python\objectDetectorSeg\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="objectDetectorSeg" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\ejekw\Documents\opt\python\objectDetectorSeg\src\main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0e3be3396995-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23339.19" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e915c2ed-4f33-40f6-9c05-7a6fface8e15" name="Changes" comment="" />
+      <created>1729686383738</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729686383738</updated>
+    </task>
+    <servers />
+  </component>
+</project>
